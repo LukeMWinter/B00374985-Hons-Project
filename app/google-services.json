@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "156844273704",
+    "firebase_url": "https://hons-project-55b17-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hons-project-55b17",
+    "storage_bucket": "hons-project-55b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156844273704:android:d8d0e09369e18196e7051d",
+        "android_client_info": {
+          "package_name": "com.HonoursProject.Fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156844273704-qkmse8agv0q4qq8uh431aunsa85ar1a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5w-zm7YXPbmBCs1eg8NKYKE9x6PI7ceU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156844273704-qkmse8agv0q4qq8uh431aunsa85ar1a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156844273704:android:963a9aca01983f58e7051d",
+        "android_client_info": {
+          "package_name": "com.example.honsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156844273704-qkmse8agv0q4qq8uh431aunsa85ar1a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5w-zm7YXPbmBCs1eg8NKYKE9x6PI7ceU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156844273704-qkmse8agv0q4qq8uh431aunsa85ar1a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
